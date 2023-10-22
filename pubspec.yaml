@@ -9,6 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  collection: 1.17.2
   cupertino_icons: 1.0.2
   dio: 5.3.3
   easy_localization: 3.0.2

@@ -1,1 +1,6 @@
-{}
+{
+    "can_select": {
+        "one": "You can select {} seat",
+        "many": "You can select {} seats"
+    }
+}
