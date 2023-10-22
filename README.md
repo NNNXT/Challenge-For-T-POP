@@ -2,6 +2,12 @@
 
 ## How to Use
 
+**Step 0: You Can Change the maximum seat value that the user can select in path**
+
+```
+lib/src/features/main_navagation/viewmodel.dart
+```
+
 **Step 1:**
 
 ```
